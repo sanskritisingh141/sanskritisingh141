@@ -1,4 +1,4 @@
-# Hi, I'm Sanskriti
+**Hi, I'm Sanskriti**
 
 CS student exploring AI, tech, and creativity.
 
